@@ -1,6 +1,6 @@
 {
-  "name": "presentation_template",
-  "version": "0.0.0",
+  "name": "bayesian_classification_with_stan",
+  "version": "1.0.0",
   "description": "my reveal.js presentation template",
   "main": "Gruntfile.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/tscholak/presentation_template.git"
   },
   "author": "Torsten Scholak <torsten.scholak@googlemail.com>",
-  "license": "MIT",
+  "license": "CC-BY-SA-4.0",
   "bugs": {
     "url": "https://github.com/tscholak/presentation_template/issues"
   },
